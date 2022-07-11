@@ -1,0 +1,605 @@
+body{
+    background-color: black;
+    margin:0px;
+    padding:0px;
+}
+.navs{
+    height: 116px;
+    width: 1530px;
+    display: flex;
+    margin: auto;
+    max-width: 1350px;
+    
+
+}
+.names{
+    height: 40px;
+    width: 534px;
+
+
+}
+.names-title{
+    font-size: 46px;
+    color: green;
+    width: 534px;
+    padding-left: 111px;
+
+}
+.navigations{
+    height: 40px;
+    width: 815px;
+    background-color: black;
+
+}
+.ul-2{
+    height: 30px;
+    width: 770px;
+    color: white;
+    display: flex;
+    padding-top: 34px;
+    padding-left: 217px;
+}
+
+.li-2{
+    color: white;
+    font-size: 26px;
+    width: 172px;
+
+}
+.li-3{
+    color: white;
+    font-size: 26px;
+    width: 216px;
+
+
+
+}
+#thero{
+    max-width: 1350px;
+    width: 1530px;
+    height:1px;
+}
+
+
+
+
+
+#introduction{
+    height: 500px;
+    width: 1530px;
+    max-width: 1350px;
+    box-shadow: 6px 3px 138px white;
+    margin: auto;
+  
+
+
+}
+#heading{
+    height: 99px;
+    width: 1348px;
+    padding-left: 85px;
+    text-align: center;
+
+
+}
+.lili{
+    height: 70px;
+    width: 1345px;
+    font-size: 68px;
+    color: red;
+    text-shadow: 3px 2px white;
+    background-color: black;
+    box-shadow: 2px 3px 37px white;
+    border-radius: 20px;
+}
+.resume{
+    height: 70px;
+    width: 1345px;
+    font-size: 68px;
+    color: red;
+    text-shadow: 3px 2px white;
+    
+
+}
+
+
+
+.left-intro{
+    height: 490px;
+    width: 622px;
+    padding-left: 16px;
+    padding-top: 44px;
+
+}
+.right-intro{
+    height: 297px;
+    width: 772px;
+    padding-top: 157px;
+}
+#nakul-1{
+    height: 388px;
+    width: 521px;
+    border-radius: 30px;
+    box-shadow: 2px 3px 30px white;
+    border: 3px solid black;
+    border-right: 9px solid black;
+}
+#lolo-pop{
+    display: flex;
+    height:200px;
+    width:500px;
+}
+.padding-1{
+    display:flex;
+    padding-left:23px;
+}
+.namees{
+    height: 34px;
+    width: 776px;
+    font-size: 23px;
+    color: white;
+    display: flex;
+    padding-left: 73px;
+}
+.namees span{
+    color:red;
+
+}
+.branch{
+    height: 34px;
+    width: 776px;
+    font-size: 23px;
+    color: white;
+    display: flex;
+    padding-left: 73px;
+}
+.branch span{
+    color:red;
+
+}
+.padding-2{
+    display:flex;
+    padding-left:23px;
+}
+.namees1{
+    height: 34px;
+    width: 776px;
+    font-size: 23px;
+    color: white;
+    display: flex;
+    padding-left: 73px;
+}
+.namees1 span{
+    color:red;
+
+}
+.branch2{
+    height: 34px;
+    width: 776px;
+    font-size: 23px;
+    color: white;
+    display: flex;
+    padding-left: 21px;
+}
+.branch2 span{
+    color:red;
+
+}
+
+
+
+
+
+
+.used-flex{
+    display:flex;
+}
+.catch-skills{
+    height: 600px;
+    width: 855px;
+}
+
+#skill{
+    height: 99px;
+    width: 703px;
+    padding-left: 85px;
+    text-align: center;
+
+
+}
+.lilo{
+    height: 70px;
+    width: 660px;
+    font-size: 68px;
+    color: red;
+    text-shadow: 3px 2px white;
+    background-color: black;
+    box-shadow: 2px 3px 37px white;
+    border-radius: 20px;
+}
+.skilli{
+    height: 70px;
+    width: 660px;
+    font-size: 68px;
+    color: red;
+    text-shadow: 3px 2px white;
+    
+
+}
+#skills{
+    padding-left: 91px;
+}
+
+.helio{
+    height: 500px;
+    width: 651px;
+    box-shadow: 6px 3px 138px white;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.python{
+    height: 40px;
+    width: 650px;
+    display: flex;
+}
+.python-title{
+    font-size: 36px;
+    color: white;
+    padding-left: 161px;
+
+}
+.marks{
+    font-size: 30px;
+    color: white;
+    padding-left: 140px;
+    padding-top: 11px;
+
+}
+.line-show-for-python{
+    padding-left: 170px;
+    padding-top: 45px;
+    height: 3px;
+    width: 200px;
+
+}
+.white-line-padding{
+    height: 6px;
+    width: 306px;
+    box-shadow: 1px 0px 5px white;
+    border-bottom: 2px solid white;
+    border-right: 3px solid white;
+}
+.padding{
+    height: 5px;
+    
+    
+    animation: dinos 2s ease-in infinite 2s;
+
+}
+@keyframes dinos {
+    0%{
+        background-color: green;
+        width:20px
+    }
+    10%{
+        background-color: green;
+        width:50px
+    }
+    20%{
+        background-color: green;
+        width:60px
+    }
+    30%{
+        background-color: green;
+        width:70px;
+    }
+    40%{
+        background-color: green;
+        width:80px;
+    }
+    50%{
+        background-color: green;
+        width:90px;
+    }
+    60%{
+        background-color: green;
+        width:100px;
+    }
+    70%{
+        background-color: green;
+        width:110px;
+    }
+    80%{
+        background-color: #09f1ec;
+        width:120px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+.c{
+    height: 40px;
+    width: 648px;
+    display: flex;
+    padding-top: 35px;
+
+}
+.c-title{
+    font-size: 36px;
+    color: white;
+    padding-left: 177px;
+
+}
+.marks1 {
+    font-size: 30px;
+    color: white;
+    padding-left: 219px;
+    padding-top: 11px;
+}
+.line-show-for-c{
+    padding-left: 171px;
+    padding-top: 45px;
+    height: 3px;
+    width: 200px;
+
+}
+.white-line-padding1{
+    height: 6px;
+    width: 306px;
+    box-shadow: 1px 0px 5px white;
+    border-bottom: 2px solid white;
+    border-right: 3px solid white;
+}
+.padding1{
+    height: 5px;
+    
+    
+    animation: dino 2s ease-in infinite 2s;
+
+}
+@keyframes dino {
+    0%{
+        background-color: green;
+        width:20px
+    }
+    10%{
+        background-color: green;
+        width:50px
+    }
+    20%{
+        background-color: green;
+        width:60px
+    }
+    30%{
+        background-color: #09f1ec;
+        width:70px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css{
+    height: 40px;
+    width: 648px;
+    display: flex;
+    padding-top: 35px;
+
+}
+.css-title{
+    font-size: 36px;
+    color: white;
+    padding-left: 177px;
+
+}
+.marks12 {
+    font-size: 30px;
+    color: white;
+    padding-left: 187px;
+    padding-top: 11px;
+}
+.line-show-for-css{
+    padding-left: 171px;
+    padding-top: 45px;
+    height: 3px;
+    width: 200px;
+
+}
+.white-line-padding2{
+    height: 6px;
+    width: 306px;
+    box-shadow: 1px 0px 5px white;
+    border-bottom: 2px solid white;
+    border-right: 3px solid white;
+}
+.padding2{
+    height: 5px;
+    
+    
+    animation: css 2s ease-in infinite 2s;
+
+}
+@keyframes css {
+    0%{
+        background-color: green;
+        width:20px
+    }
+    10%{
+        background-color: green;
+        width:50px
+    }
+    20%{
+        background-color: green;
+        width:60px
+    }
+    30%{
+        background-color: green;
+        width:70px;
+    }
+    40%{
+        background-color: green;
+        width:80px;
+    }
+    50%{
+        background-color: #f1dd09;
+        width:90px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#interest{
+    height: 99px;
+    width: 703px;
+    text-align: center;
+
+
+}
+.lilmbo{
+    height: 70px;
+    width: 578px;
+    font-size: 68px;
+    color: red;
+    text-shadow: 3px 2px white;
+    background-color: black;
+    box-shadow: 2px 3px 37px white;
+    border-radius: 20px;
+}
+.interesti{
+    height: 70px;
+    width: 576px;
+    font-size: 68px;
+    color: red;
+    text-shadow: 3px 2px white;
+    
+
+}
+.catching-2{
+    height: 600px;
+    width: 663px;
+}
+.lo-lo{
+    height: 500px;
+    width: 602px;
+    padding-left: 0px;
+    box-shadow: 3px 4px 37px white;
+    display:flex;
+}
+.ghjft-hgk{
+    height: 70px;
+    width: 660px;
+    font-size: 68px;
+    background-color: #000000;
+    border-radius: 20px;
+}
+
+
+#left1{
+    height: 300px;
+    width: 40px;
+    padding-top: 104px;
+    padding-left: 126px;
+}
+#right{
+    height: 40px;
+    padding-top: 87px;
+    padding-left: 170px;
+}
+
+
+#nakul-2{
+    height: 102px;
+    width: 110px;
+    border-radius: 26px;
+    cursor: pointer;
+}
+#nakul-2:hover{
+    height:156px;
+    width:156px;
+}
+#name_certificate{
+    font-size: 54px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: red;
+    text-shadow: 3px 2px white;
+}
